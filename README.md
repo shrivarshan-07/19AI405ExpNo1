@@ -178,12 +178,10 @@ Final Performance = 25
 
 # Output Screenshot
 
-**Paste the screenshot of your program output here.**
-
+<img width="1117" height="725" alt="Screenshot 2026-07-24 105319" src="https://github.com/user-attachments/assets/90c90399-a261-4483-b449-692f7c64ef91" />
 Example:
 
 ```
-<img width="1117" height="725" alt="Screenshot 2026-07-24 105319" src="https://github.com/user-attachments/assets/90c90399-a261-4483-b449-692f7c64ef91" />
 
 ```
 
